@@ -1,0 +1,53 @@
+img {
+  width: 300px;
+  text-align: center;
+  border-radius: 100%;
+}
+body {
+  text-align: center;
+  
+  background-repeat: no-repeat;
+padding-top: 30px;
+}
+p {
+  font-size: 20px;
+  color: white;
+}
+.menu {
+list-style: none;
+float: right;
+    margin-right: 75px;
+    margin-top: 10px;
+    cursor: pointer;
+    position: fixed;
+    }
+.links {
+padding-left: 35px;
+padding-right: 25px;
+font-family: cursive;
+display: inline;
+color:darkviolet;
+margin-right: 20px;
+}
+#hobby {
+padding-top: 30px;
+    background: linear-gradient(#1fb2c6 0%, #470082 100%);
+}
+p {
+color: darkmagenta;
+font-family: 'itim'
+}
+html {
+scroll-behavior: smooth;
+}
+img {
+    transition: transform .2s;
+    border: 5px solid #AAAAAA;
+    }
+img:hover {
+transform: scale(0.9);
+}
+.socialmedia {
+width: 50px;
+height: 50px;
+}
